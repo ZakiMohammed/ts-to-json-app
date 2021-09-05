@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ts-to-json": "^1.4.1"
+  }
+}
